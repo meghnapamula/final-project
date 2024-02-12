@@ -1,5 +1,4 @@
 .env.prod.db
-.env.prod
 
 *.swp
 *.swo
