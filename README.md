@@ -9,7 +9,7 @@ Once file is uploaded, navigate to this page to view uploaded file: http://local
 
 ### Demo
 
-(https://github.com/meghnapamula/flask-on-docker/assets/123199060/556e2132-d447-4f2e-9da0-7ac49c798cca)
+![SPLIT CLIP BIG DATA](https://github.com/meghnapamula/flask-on-docker/assets/123199060/e47af095-2953-4386-b452-65b237b1584e)
 
 
 ### Build Instruction:
