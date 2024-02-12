@@ -4,7 +4,7 @@ In this project, I created a web app that allows users to upload images and gifs
 
 To upload the file, I navigated to this page on my browser: http://localhost:6001/upload
 
-Once file is uploaded, I navigated to this page to view the uploaded file: http://localhost:6001/media/gif-for-big-data.gif
+Once file was uploaded, I navigated to this page to view the uploaded file: http://localhost:6001/media/gif-for-big-data.gif
 
 I used the following tutorial: https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx/
 I used the following README file to build my README file: https://github.com/testdrivenio/flask-on-docker/blob/main/README.md
