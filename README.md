@@ -1,4 +1,4 @@
-# Dockerizing Flask with Postgres, Gunicorn, and Nginx
+# Flask on Docker
 
 In this project, I created a web app that allows users to upload images and gifs from their local computer. The user can then view the image on their browser.
 
