@@ -1,15 +1,19 @@
 # Dockerizing Flask with Postgres, Gunicorn, and Nginx
 
-In this project, I created a web app that allows users to upload images of PNG and JPG formats from anywhere on their local computer. The user can then view the image on the browser.
+In this project, I created a web app that allows users to upload images and gifs from their local computer. The user can then view the image on their browser.
 
-To upload the file, navigate to this page on your browser: http://localhost:6001/upload
+To upload the file, I navigated to this page on my browser: http://localhost:6001/upload
 
-Once file is uploaded, navigate to this page to view uploaded file: http://localhost:6001/media/IMAGE_FILE_NAME
+Once file is uploaded, I navigated to this page to view the uploaded file: http://localhost:6001/media/gif-for-big-data.gif
+
+I used the following tutorial: https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx/
+I used the following README file to build my README file: https://github.com/testdrivenio/flask-on-docker/blob/main/README.md
+
 
 
 ### Demo
 
-Here is a gif. The quality is poor. As such, I have included it in video format right below.
+Here is a short gif of me uploading a file at http://localhost:6001/upload, and then viewing said file at http://localhost:6001/media/gif-for-big-data.gif. This gif is of poor quality so I have also uploaded it in video format directly underneath.
 
 ![SPLIT CLIP BIG DATA](https://github.com/meghnapamula/flask-on-docker/assets/123199060/e47af095-2953-4386-b452-65b237b1584e)
 
