@@ -9,6 +9,8 @@ Once file is uploaded, navigate to this page to view uploaded file: http://local
 
 ### Demo
 
+Here is a gif. The quality is poor. As such, I have included it in video format right below.
+
 ![SPLIT CLIP BIG DATA](https://github.com/meghnapamula/flask-on-docker/assets/123199060/e47af095-2953-4386-b452-65b237b1584e)
 
 https://github.com/meghnapamula/flask-on-docker/assets/123199060/4f63d8a3-899e-4a92-bb65-90b5b8a6aab0
