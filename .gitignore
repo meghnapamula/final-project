@@ -1,6 +1,5 @@
 .env.prod.db
-
-*.swp
-*.swo
-*.swn
-*.swm
+# .env.prod
+# .env.dev
+output.logs
+data/
